@@ -1,1 +1,1 @@
-ln -s /home/ko/git-setup/.gitconfig ~/.gitconfig
+ln -s ~/git-setup/.gitconfig ~/.gitconfig
